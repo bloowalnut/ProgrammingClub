@@ -21,6 +21,7 @@ public class HelloWorld {
 	//For one line comment
 	public static void main(String[] args){
 		System.out.println("Hello, world!");
+		System.out.println("Hahaha!");
 		int x = 3; //declares and defines x
 		System.out.println(x); //prints x
 		long peopleOfTheWorld = 7000000000L;
